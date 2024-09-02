@@ -1,9 +1,0 @@
-altgraph==0.17.4
-et-xmlfile==1.1.0
-macholib==1.16.3
-openpyxl==3.1.5
-packaging==24.1
-pillow==10.4.0
-pyinstaller==6.9.0
-pyinstaller-hooks-contrib==2024.7
-setuptools==71.1.0
